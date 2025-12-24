@@ -23,7 +23,3 @@ This repository aims to simplify schematic capture and PCB design by providing:
 - 🧩 Easy integration into KiCad projects
 - 🛠️ Useful for prototyping and learning RF PCB design
 - 📄 Example PCB included for reference
-
-
-## 📂 Repository Structure
-
